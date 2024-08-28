@@ -62,7 +62,7 @@
         "typescript": "3.9.3",
         "uglify-template-string-loader": "^1.1.0",
         "unused-files-webpack-plugin": "^3.4.0",
-        "webpack": "^4.43.0",
+        "webpack": "^5.94.0",
         "webpack-bundle-analyzer": "^3.0.3",
         "webpack-cli": "^3.1.0",
         "webpack-deep-scope-plugin": "^1.6.0",
